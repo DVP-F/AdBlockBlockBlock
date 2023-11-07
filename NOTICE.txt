@@ -1,0 +1,11 @@
+This is a chrome extension I'm making because I'm done with Google block ad blockers on YouTube. This will likely be available on the Chrome Web Store when it's done.
+Until then, please refrain from use, as it is likely not stable.
+
+Aside from that, I probably won't care if you use this code for reference- It's not that crucial to me, I'm writing it in hate.
+
+Any and all attributions should be made to; 
+DVP, DVPF, DVPProto, Carnx, Carnx00, or other fair names, such as account names
+
+
+NB!
+You may want to refer to https://linktr.ee/carnx00 
